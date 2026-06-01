@@ -175,6 +175,8 @@ Un, sou suru ne. Arigatou.
 | 先生は学生に会話の練習をさせます。 | Sensei wa gakusei ni kaiwa no renshuu wo sasemasu. | 老师让学生做会话练习。 |
 | 用事があるので、先に失礼させていただきます。 | Youji ga aru node, saki ni shitsurei sasete itadakimasu. | 有事在身，请允许我先告辞。 |
 
+> 课堂幻灯片例句（犬を散歩させる / 学生に宿題をさせる）及补充例句（買い物に行かせる / ケガをさせる）见 `grammar_causative_shieki_tai.md` **§八**。
+
 ### 2. ～らしい — 像样的…
 
 **接续：** 体言 + らしい
